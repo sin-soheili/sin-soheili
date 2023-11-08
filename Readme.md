@@ -1,7 +1,7 @@
 # About Me
 
 ## Personal Information
-- Name: [Setayesh]
+- Name: Setayesh
 - Age: <span style="color: blue;">18 years old</span>
 - Email: [sin.soheili@hotmail.com](mailto:sin.soheili@hotmail.com)
 
