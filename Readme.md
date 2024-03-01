@@ -6,16 +6,16 @@
 - Email: [sin.soheili@hotmail.com](mailto:sin.soheili@hotmail.com)
 
 ## Skills
-- Programming Languages: <span style="color: green;">Python (Junior level)</span> , <span style="color: yellow;">JavaScript</span>
-- Web Technologies: HTML, CSS, JavaScript, Tailwind, Sass, Bootstrap
+- Programming Languages: <span style="color: green;">Python </span> , <span style="color: yellow;">JavaScript</span>
+- Web Technologies: HTML, CSS, JavaScript, Tailwind, Scss, Bootstrap , Flask, Fast-API
+- Other Things:  Scrapy, Selenium, Beautifull Soup
 
 ## Education and Experience
 - Currently studying software engineering
-- Exploring FastAPI for enhancing web development skills
-
+- Exploring Network 
 ## Interests and Passions
-- Passionate about Python and scripting
-- Interested in web development and working with various frameworks and libraries
+- Passionate about Cyber Security
+- Interested in Python and working with various frameworks and libraries
 
 ## Contact Me
 - Email: [sin.soheili@hotmail.com](mailto:sin.soheili@hotmail.com)
